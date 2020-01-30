@@ -1,0 +1,10 @@
+app.confHome=/var/atlassian/application-data/confluence7_1_0
+app.install.service$Boolean=true
+portChoice=custom
+httpPort$Long=26112
+rmiPort$Long=8001
+launch.application$Boolean=false
+sys.adminRights$Boolean=true
+sys.confirmedUpdateInstallationString=false
+sys.installationDir=/opt/atlassian/confluence7_1_0
+sys.languageId=en
